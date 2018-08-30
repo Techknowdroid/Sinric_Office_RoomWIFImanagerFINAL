@@ -12,5 +12,5 @@ Techknowdroid VERSION 1.00 -  5th August,2018
  If it establishes a connection, the process is completed successfully. Otherwise, it will remain set up as an Access Point.
 
 A 20x4 LCD is connected to the NodeMcu(esp8266) to show the status of events.
-The Pin SCL on the LCD Panel goel to D1(GPIO 5) on the NodeMcu
-The Pin SDA on the LCD Panel goel to D2(GPIO 4) on the NodeMcu
+The Pin SCL on the LCD Panel goes to D1(GPIO 5) on the NodeMcu
+The Pin SDA on the LCD Panel goes to D2(GPIO 4) on the NodeMcu
